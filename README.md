@@ -60,7 +60,7 @@ Incluye un formulario sencillo con los siguientes campos:
 ## 🚀 Vista Previa  
 
 ### 🎨 Página Principal  
-![Página Principal](![image](https://github.com/user-attachments/assets/62bff1b2-a609-44e6-80ee-7f59f5acce58)
-)  
+![Página Principal] ![image](https://github.com/user-attachments/assets/1fba6f8c-51e8-431d-8d1c-2d3c3c860808)
+
 
 
