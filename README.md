@@ -57,4 +57,10 @@ Incluye un formulario sencillo con los siguientes campos:
 
 ---
 
+## 🚀 Vista Previa  
+
+### 🎨 Página Principal  
+![Página Principal](![image](https://github.com/user-attachments/assets/62bff1b2-a609-44e6-80ee-7f59f5acce58)
+)  
+
 
